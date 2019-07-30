@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is starter projects to handle the repo
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It provides the basic information about how to handle the repo, create branch, create, assign and close the issue.
 
 ## Getting started
 
