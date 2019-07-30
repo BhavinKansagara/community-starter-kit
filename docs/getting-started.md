@@ -35,4 +35,9 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+You should follow these steps to configure the project
+1. Make it ready with the Git setup
+2. Fork the repo, that will create a copy in your account
+3. Use pull from git repo url, to take a local copy to your computer.
+4. Start editing the files, you would like to contribute
+5. Push it to the master branch.
